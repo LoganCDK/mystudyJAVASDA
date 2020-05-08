@@ -21,3 +21,6 @@ If applicable, add screenshots to help explain your problem.
  - OS: [e.g. Windows 10]
  - Python Version [e.g. 3.6.2]
  - Console Used [e.g. Powershell]
+
+**Additional context**
+Add any other context about the problem here.
