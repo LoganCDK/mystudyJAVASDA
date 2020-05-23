@@ -1,1 +1,1 @@
-# Contributor Covenant Co
+# Contributor Covenant Code of C
