@@ -1,1 +1,1 @@
-# Contributor Coven
+# Contributor Covenant Co
