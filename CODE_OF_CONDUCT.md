@@ -1,1 +1,1 @@
-# Contributor Covenant Code of Condu
+# Contributor Covenant Code of Conduc
