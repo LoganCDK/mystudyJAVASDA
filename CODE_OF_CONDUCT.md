@@ -1,1 +1,2 @@
-# Contributor Covenant Code of Conduc
+# Contributor Covenant Code of Conduct
+
