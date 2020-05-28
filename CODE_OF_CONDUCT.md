@@ -2,4 +2,4 @@
 
 ## Our Pledge
 
-In the interest
+In the interest of fo
