@@ -2,4 +2,4 @@
 
 ## Our Pledge
 
-In the interest of fosteri
+In the interest of fostering an
