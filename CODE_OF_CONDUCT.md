@@ -2,4 +2,4 @@
 
 ## Our Pledge
 
-In the interest of fo
+In the interest of fosteri
