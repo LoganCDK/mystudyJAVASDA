@@ -2,4 +2,4 @@
 
 ## Our Pledge
 
-In the interest of fostering an open and
+In the interest of fostering an open and we
