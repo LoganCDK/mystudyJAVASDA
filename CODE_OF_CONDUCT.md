@@ -2,4 +2,4 @@
 
 ## Our Pledge
 
-In the interest of fostering an open and welcomin
+In the interest of fostering an open and welcoming envi
