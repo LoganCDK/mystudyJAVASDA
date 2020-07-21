@@ -2,4 +2,4 @@
 
 ## Our Pledge
 
-In the interest of fostering an open and welcoming environment, we as contributors and maintainers ple
+In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledg
