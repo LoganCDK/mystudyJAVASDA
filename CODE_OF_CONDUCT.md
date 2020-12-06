@@ -6,4 +6,4 @@ In the interest of fostering an open and welcoming environment, we as contributo
 
 ## Our Standards
 
-Examples of behavior that contributes 
+Examples of behavior that contributes to c
