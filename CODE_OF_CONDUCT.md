@@ -14,4 +14,4 @@ Examples of behavior that contributes to creating a positive environment include
 * Focusing on what is best for the community
 * Showing empathy towards other community members
 
-Examp
+Examples of
