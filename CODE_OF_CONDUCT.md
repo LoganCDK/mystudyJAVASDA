@@ -16,4 +16,4 @@ Examples of behavior that contributes to creating a positive environment include
 
 Examples of unacceptable behavior by participants include:
 
-* Th
+* The use
