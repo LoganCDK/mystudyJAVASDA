@@ -24,4 +24,4 @@ Examples of unacceptable behavior by participants include:
 
 ## Our Responsibilities
 
-Project maintainers are
+Project maintainers are re
