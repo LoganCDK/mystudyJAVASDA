@@ -24,4 +24,4 @@ Examples of unacceptable behavior by participants include:
 
 ## Our Responsibilities
 
-Project maintainers are responsible for clarifying the standards of acceptabl
+Project maintainers are responsible for clarifying the standards of acceptable b
