@@ -30,4 +30,4 @@ Project maintainers have the right and responsibility to remove, edit, or reject
 
 ## Scope
 
-This Co
+This Code o
