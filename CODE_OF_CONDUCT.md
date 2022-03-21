@@ -30,4 +30,4 @@ Project maintainers have the right and responsibility to remove, edit, or reject
 
 ## Scope
 
-This Code of Conduct applies both within project spaces and in 
+This Code of Conduct applies both within project spaces and in pub
