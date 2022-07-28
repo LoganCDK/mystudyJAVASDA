@@ -34,4 +34,4 @@ This Code of Conduct applies both within project spaces and in public spaces whe
 
 ## Enforcement
 
-Instances of abusive, harassing
+Instances of abusive, harassing, or
