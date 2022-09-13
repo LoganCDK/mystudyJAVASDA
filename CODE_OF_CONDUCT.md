@@ -34,4 +34,4 @@ This Code of Conduct applies both within project spaces and in public spaces whe
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at darthrecca@gmail.com. The project team will review and investigate all complaints, and will respond in a way that it deems appropriat
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at darthrecca@gmail.com. The project team will review and investigate all complaints, and will respond in a way that it deems appropriate t
