@@ -40,4 +40,4 @@ Project maintainers who do not follow or enforce the Code of Conduct in good fai
 
 ## Attribution
 
-This Code of Cond
+This Code of Conduct i
