@@ -11,3 +11,9 @@ If there are suggestion or criticisms please do leave them, but please adhere to
 
 The end result of this project is for a complete Trading program to be created ,but I will only post/commit the changes which
 do not have any strategic algorithms in them.
+
+This base is free for anyone to use, but please adhere to the MIT Open Source License.
+
+Thank you all for undertsading this and adhering to these requests.
+
+-Abhishek Rajopadhye
